@@ -1,0 +1,1 @@
+使用例子：shuf input_file.txt -o  output_file.txt

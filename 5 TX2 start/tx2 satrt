@@ -1,0 +1,4 @@
+1 gnome-session-properties
+2 open-terminal
+3 gnome-terminal -x /home/ubuntu/setUp.bash
+4 chmod 777 setUp.bash
